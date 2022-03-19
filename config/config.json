@@ -1,0 +1,23 @@
+{
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "development": {
+    "username": "genshin_easy_usr",
+    "password": "L7vp5JhYp4dzugnB",
+    "database": "dev",
+    "host": "85.193.83.243",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "genshin_easy_usr",
+    "password": "L7vp5JhYp4dzugnB",
+    "database": "genshin_easy__db",
+    "host": "85.193.83.243",
+    "dialect": "mysql"
+  }
+}
